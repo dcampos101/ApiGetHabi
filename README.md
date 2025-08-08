@@ -13,4 +13,5 @@ Desarrollo:
 6. Creacion de condiciones para filtrado por estado, ciudad y anio.
 7. Ejecucion de pruebas con FastAPI, validando cada uno de los filtros creados.
 
-
+Instalcion de libreria fastapi:
+pip install fastapi uvicorn sqlalchemy mysql-connector-python nest-asyncio 
